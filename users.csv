@@ -1,0 +1,8 @@
+User_ID,Name,Role,Status,Email,Password
+U-ADMIN01,System Admin,Admin,Active,admin@surakshapay.ai,admin
+U-ANA001,Fraud Analyst 1,Analyst,Active,,
+U-VW003,Exec Viewer,Viewer,Inactive,,
+U-B04300,Aavya,Viewer,Active,24ec3002@rgipt.ac.in,pe@12035
+U-B9E8D0,Admin,Viewer,Active,admin@admin.com,password123
+U-87A3A1,Admin User,Viewer,Active,admin@example.com,Password123!
+U-296274,Admin User,Viewer,Active,admin@gmail.com,admin123
