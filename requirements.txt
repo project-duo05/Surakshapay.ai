@@ -3,14 +3,10 @@ pandas
 numpy
 scikit-learn
 plotly
-shap
-streamlit-option-menu
-streamlit-lottie
 requests
-fastapi
-uvicorn
 sqlalchemy
 pydantic
 passlib[bcrypt]
 python-jose[cryptography]
-python-dotenv
+streamlit-option-menu
+streamlit-lottie
